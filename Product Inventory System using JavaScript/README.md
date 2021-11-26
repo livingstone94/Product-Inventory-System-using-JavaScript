@@ -1,5 +1,5 @@
 # How To Run??
-1. Extract the zip file.
+1. clone  or extract the zip file.
 2. Find and locate the file “index.html”.
 3. Open the file in a web browser
 
